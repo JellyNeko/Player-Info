@@ -1,0 +1,259 @@
+{
+  "vaultName": "Apatha Wiki",
+  "lastExport": 1714558337529,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "0. Welcome.md",
+    "Alta.md",
+    "Apathan Languages.md",
+    "Azim.md",
+    "Character Creation Notes.md",
+    "Church of Madoka.md",
+    "Ethereal Plane.md",
+    "Intro to Apathan Cosmology.md",
+    "Intro to Apathan Geography.md",
+    "Intro to Apathan Religion.md",
+    "Jindo.md",
+    "List of Countries.md",
+    "List of Religions.md",
+    "Madokan Monthly.md",
+    "Madokan Theology.md",
+    "Maps of Apatha.md",
+    "Politics of Apatha.md",
+    "Slavaria.md",
+    "Yourai.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "0. Welcome.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 945,
+      "exportedPath": "0. Welcome.html",
+      "dependencies": []
+    },
+    "Alta.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 152,
+      "exportedPath": "Alta.html",
+      "dependencies": []
+    },
+    "Apathan Languages.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1591,
+      "exportedPath": "Apathan Languages.html",
+      "dependencies": []
+    },
+    "Azim.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 387,
+      "exportedPath": "Azim.html",
+      "dependencies": []
+    },
+    "Character Creation Notes.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1983,
+      "exportedPath": "Character Creation Notes.html",
+      "dependencies": []
+    },
+    "Church of Madoka.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 3915,
+      "exportedPath": "Church of Madoka.html",
+      "dependencies": []
+    },
+    "Ethereal Plane.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 155,
+      "exportedPath": "Ethereal Plane.html",
+      "dependencies": []
+    },
+    "Intro to Apathan Cosmology.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 518,
+      "exportedPath": "Intro to Apathan Cosmology.html",
+      "dependencies": []
+    },
+    "Intro to Apathan Geography.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 862,
+      "exportedPath": "Intro to Apathan Geography.html",
+      "dependencies": []
+    },
+    "Intro to Apathan Religion.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 383,
+      "exportedPath": "Intro to Apathan Religion.html",
+      "dependencies": []
+    },
+    "Jindo.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 865,
+      "exportedPath": "Jindo.html",
+      "dependencies": []
+    },
+    "List of Countries.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 2649,
+      "exportedPath": "List of Countries.html",
+      "dependencies": []
+    },
+    "List of Religions.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 34,
+      "exportedPath": "List of Religions.html",
+      "dependencies": []
+    },
+    "Madokan Monthly.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 591,
+      "exportedPath": "Madokan Monthly.html",
+      "dependencies": []
+    },
+    "Madokan Theology.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 4571,
+      "exportedPath": "Madokan Theology.html",
+      "dependencies": []
+    },
+    "Maps of Apatha.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1406,
+      "exportedPath": "Maps of Apatha.html",
+      "dependencies": []
+    },
+    "Politics of Apatha.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1229,
+      "exportedPath": "Politics of Apatha.html",
+      "dependencies": []
+    },
+    "Slavaria.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1891,
+      "exportedPath": "Slavaria.html",
+      "dependencies": []
+    },
+    "Yourai.md": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 1539,
+      "exportedPath": "Yourai.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1714558337529,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
